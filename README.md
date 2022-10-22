@@ -1,2 +1,11 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+echo "# dart" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/AHMEDmohamedyassin/dart.git
+git push -u origin main
+
+git remote add origin https://github.com/AHMEDmohamedyassin/dart.git
+git branch -M main
+git push -u origin main
